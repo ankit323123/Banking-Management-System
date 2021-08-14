@@ -2,7 +2,6 @@
 Banking management system in C++ using the OOP's programming skills and file handling concepts.
 
 Features:
-
 Create an account
 
 Balance Enquiry
@@ -13,9 +12,12 @@ Withdraw amount
 
 Close an account
 
+
 View all account holders detail
 
-Prerequisite for OOP's concepts
+
+Prerequisite for OOP's concepts:
+
 Abstraction
 
 Polymorphism
